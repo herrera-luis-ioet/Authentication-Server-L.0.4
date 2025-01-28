@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m pytest tests/",
+    "working_directory": "/home/kavia/workspace/authentication-server-l04-authentication-server-l04-53313-53394-pre_prod/auth_service"
+}

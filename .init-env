@@ -1,0 +1,9 @@
+Environment initialized successfully with required components:
+- Python 3.12.3
+- pip 24.0
+- Flask 3.0.3
+- Docker CE (Latest)
+- PostgreSQL (Latest)
+- Git 2.43.0
+- pytest 8.3.2
+- PyJWT 2.8.0
