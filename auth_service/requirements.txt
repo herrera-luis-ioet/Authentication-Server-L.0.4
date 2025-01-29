@@ -6,3 +6,4 @@ psycopg2-binary==2.9.7
 redis==5.0.1
 fakeredis==2.20.1
 Flask-Migrate==4.1.0
+Flask-Cors==5.0.0

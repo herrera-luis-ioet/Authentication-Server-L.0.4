@@ -2,9 +2,11 @@ from flask import Flask, jsonify
 from flask_migrate import Migrate
 from src.routes.auth import auth_bp
 from src.models import db
+from flask_cors import CORS
 
 def create_app(config=None):
     app = Flask(__name__)
+    CORS(app)
 
     # Default configuration
     app.config.update({
